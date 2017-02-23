@@ -29,7 +29,7 @@ $(document).on('click','#btn_save', function() {
     }); 
 	
 	$(document).on('click','#cancel_btn', function() {
-       alert('check');
+      
 	   
 	   $('#ntfySpan').css('display','none');
 	   
